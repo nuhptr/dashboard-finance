@@ -35,6 +35,16 @@ also `bun add -D drizzle-kit`
 
 for config.ts install `bun add dotenv`
 
+for typesafe insert schema adding `bun add drizzle-zod`
+
 ### Tanstack React Query
 
 For react query `bun add @tanstack/react-query`
+
+### For generating uuid
+
+install package `bun add @paralleldrive/cuid2` - https://github.com/paralleldrive/cuid2
+
+### For state management
+
+install `bun add zustand` - https://github.com/pmndrs/zustand
